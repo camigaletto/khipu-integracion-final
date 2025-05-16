@@ -58,7 +58,7 @@ A continuación se muestra el paso a paso visual de la integración:
 ### 6. Mensaje de éxito al usuario
 ![Paso 6](static/img/paso6khipu.png)
 
-### 7. Flujo de cancelación
+### 7. Comprobante de pago en E-mail
 ![Paso 7](static/img/paso7khipu.png)
 
 ---
